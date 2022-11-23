@@ -1,1 +1,3 @@
-console.log("hello test");
+const sum = (a,b) => {
+        return a +b
+}
